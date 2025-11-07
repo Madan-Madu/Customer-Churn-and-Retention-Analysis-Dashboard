@@ -42,3 +42,16 @@ New customers (<1 year) were more likely to churn — onboarding improvements ne
 Helped identify top churn drivers and customer segments at risk.
 
 Enabled management to design targeted retention campaigns.
+
+🚀 How to View
+
+Download the .pbix file from this repo.
+
+Open it in Power BI Desktop.
+
+Explore the dashboard with filters and visuals.
+
+🧑‍💼 Developed by
+
+Madan A
+Aspiring Data Analyst | SQL • Power BI • Excel | LinkedIn Profile
